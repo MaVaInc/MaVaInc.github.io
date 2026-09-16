@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -158,7 +157,7 @@ If you have questions about this Privacy Policy, you can contact us at:
 </p>
 
 <p>
-<strong>Email:</strong> YOUR_EMAIL
+<strong>Email:</strong> mavaincee@gmail.com
 </p>
 
 </body>
